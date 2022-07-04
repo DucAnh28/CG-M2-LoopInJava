@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-1-DisplayShape/BT-1-DisplayShape.iml" filepath="$PROJECT_DIR$/BT-1-DisplayShape/BT-1-DisplayShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-2-20primeNumber/BT-2-20primeNumber.iml" filepath="$PROJECT_DIR$/BT-2-20primeNumber/BT-2-20primeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-3-100PrimeNumber/BT-3-100PrimeNumber.iml" filepath="$PROJECT_DIR$/BT-3-100PrimeNumber/BT-3-100PrimeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/CG-M2-LoopInJava.iml" filepath="$PROJECT_DIR$/CG-M2-LoopInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-1-IsPrime/TH-1-IsPrime.iml" filepath="$PROJECT_DIR$/TH-1-IsPrime/TH-1-IsPrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-2-AppMoneyInvestment/TH-2-AppMoneyInvestment.iml" filepath="$PROJECT_DIR$/TH-2-AppMoneyInvestment/TH-2-AppMoneyInvestment.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-3-GreateCommonFactor/TH-3-GreateCommonFactor.iml" filepath="$PROJECT_DIR$/TH-3-GreateCommonFactor/TH-3-GreateCommonFactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-4-MenuForApp/TH-4-MenuForApp.iml" filepath="$PROJECT_DIR$/TH-4-MenuForApp/TH-4-MenuForApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
